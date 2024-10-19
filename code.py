@@ -10,8 +10,8 @@ import seaborn as sns
 
 
 
-fake_df = pd.read_csv('E:\VS Code\Fake News\dataset/Fake.csv')
-true_df = pd.read_csv('E:\VS Code\Fake News\dataset/True.csv')
+fake_df = pd.read_csv('Fake.csv')
+true_df = pd.read_csv('True.csv')
 
 
 fake_df['label'] = 0 
