@@ -1,6 +1,6 @@
 Fake News Detection
 
-This working model of machine learning can detect the accuracy of the news by using the past data presenet with us
+This working model of machine learning can detect the accuracy of the news by using the past data present with us
 
 Let’s say we have two news articles:
 
